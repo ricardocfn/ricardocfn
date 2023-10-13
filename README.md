@@ -1,8 +1,7 @@
 ## Oi, sou Ricardo Campos
 
 
-👨‍💻 Desenvolvedor de software (backend)
-
+👨‍💻
 
 <div align="center">
   <a href="https://github.com/ricardocfn">
